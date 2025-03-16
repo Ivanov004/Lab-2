@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\genja\\source\\repos\\Laba2_TPOAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376AA00B-8229-40AF-A874-9234B739B9D1}|Angles\\Angles.csproj|c:\\users\\genja\\source\\repos\\laba2_tpoas\\angles\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AA00B-8229-40AF-A874-9234B739B9D1}|Angles\\Angles.csproj|solutionrelative:angles\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6EF2EC-6C7D-4A4C-8600-02A6C2700325}|Laba2_TPOAS\\Laba2_TPOAS.csproj|c:\\users\\genja\\source\\repos\\laba2_tpoas\\laba2_tpoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6EF2EC-6C7D-4A4C-8600-02A6C2700325}|Laba2_TPOAS\\Laba2_TPOAS.csproj|solutionrelative:laba2_tpoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\genja\\source\\repos\\Laba2_TPOAS\\Angles\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Angles\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\genja\\source\\repos\\Laba2_TPOAS\\Angles\\UnitTest1.cs",
+              "RelativeToolTip": "Angles\\UnitTest1.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:47:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\genja\\source\\repos\\Laba2_TPOAS\\Laba2_TPOAS\\Program.cs",
+              "RelativeDocumentMoniker": "Laba2_TPOAS\\Program.cs",
+              "ToolTip": "C:\\Users\\genja\\source\\repos\\Laba2_TPOAS\\Laba2_TPOAS\\Program.cs",
+              "RelativeToolTip": "Laba2_TPOAS\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:39:32.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

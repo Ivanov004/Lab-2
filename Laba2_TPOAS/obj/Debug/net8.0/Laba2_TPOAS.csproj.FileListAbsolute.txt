@@ -1,0 +1,17 @@
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\Laba2_TPOAS.exe
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\Laba2_TPOAS.deps.json
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\Laba2_TPOAS.runtimeconfig.json
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\Laba2_TPOAS.dll
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\Laba2_TPOAS.pdb
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.csproj.AssemblyReference.cache
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.AssemblyInfoInputs.cache
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.AssemblyInfo.cs
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.csproj.CoreCompileInputs.cache
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TP.C93B029D.Up2Date
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.dll
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\refint\Laba2_TPOAS.dll
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.pdb
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\Laba2_TPOAS.genruntimeconfig.cache
+C:\Users\genja\source\repos\Laba2_TPOAS\Laba2_TPOAS\obj\Debug\net8.0\ref\Laba2_TPOAS.dll
